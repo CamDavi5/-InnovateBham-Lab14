@@ -1,0 +1,24 @@
+body {
+    background-color: azure;
+}
+
+.col-sm-6 {
+    margin-top: 15px;
+}
+
+#title {
+    text-align: center;
+}
+
+#btnContainer {
+    display: flex;
+    justify-content: center;
+}
+
+#filmsBtn {
+    margin-right: 25px;
+}
+
+#peopleBtn {
+    margin-left: 25px;
+}
